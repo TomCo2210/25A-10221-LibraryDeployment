@@ -75,6 +75,17 @@ git push -u origin main
 
 3. Define the library’s version and artifact details: Replace `groupId`, `artifactId`, and `version` with meaningful identifiers.
 
+4. Configure JitPack settings by adding `jitpack.yaml` file at the root of your repository:
+
+    ```yaml
+    jdk:
+      - openjdk17
+    ```
+
+    - This file specifies the JDK version to use for building your library.
+    - JitPack supports various JDK versions, including OpenJDK 8, 11, 14, 17, and more.
+    - Android projects using Android Gradle plugin 8.0 and above can use Minimum version 17 of OpenJDK.
+
 ## 4. Tag Your Release on GitHub
 
 1. Create a Git tag:

@@ -46,4 +46,4 @@
     - JitPack supports various JDK versions, including OpenJDK 8, 11, 14, 17, and more.
     - Android projects using Android Gradle plugin 8.0 and above can use Minimum version 17 of OpenJDK.
 
-[Return to the README.md](readme.md)
+[Return to the README.md](README.md)

@@ -9,4 +9,4 @@
     - Fix any issues and create new Git tags for updates.
     - Push the changes to GitHub and JitPack for new releases.
 
-[Return to the README.md](readme.md)
+[Return to the README.md](README.md)

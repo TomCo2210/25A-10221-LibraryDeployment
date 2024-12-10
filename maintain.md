@@ -9,4 +9,4 @@
 
     - Update your `README.md` with release notes and usage examples.
 
-[Return to the README.md](readme.md)
+[Return to the README.md](README.md)

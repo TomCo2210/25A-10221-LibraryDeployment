@@ -19,4 +19,4 @@ Before deploying your library, ensure your project is structured and ready for p
     - Ensure your library module has a `build.gradle` file with proper dependencies and configurations.
     - Include configurations for publishing (details below).
 
-[Return to the README.md](readme.md)
+[Return to the README.md](README.md)

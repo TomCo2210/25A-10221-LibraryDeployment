@@ -15,4 +15,4 @@
     git push -u origin main
     ```
 
-[Return to the README.md](readme.md)
+[Return to the README.md](README.md)

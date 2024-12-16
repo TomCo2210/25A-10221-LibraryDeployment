@@ -12,4 +12,4 @@
 4. Test the build:
     - If the build is successful, you'll see the dependency details for adding the library to other projects.
 
-[Return to the README.md](README.md)
+[Return to the README.md](../README.md)

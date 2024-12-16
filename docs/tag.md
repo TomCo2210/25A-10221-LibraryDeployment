@@ -12,4 +12,4 @@
 2. Verify the tag on GitHub:
     - Go to your repository → `Tags` section to ensure the tag is visible.
 
-[Return to the README.md](README.md)
+[Return to the README.md](../README.md)

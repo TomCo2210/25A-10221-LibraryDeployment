@@ -24,4 +24,4 @@
 
     convert dependency to kotlin syntax using ```gradle/libs.versions.toml``` file
 
-[Return to the README.md](README.md)
+[Return to the README.md](../README.md)
